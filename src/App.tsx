@@ -40,10 +40,10 @@ function App() {
 
             {/* <HighlightIcon /> */}
             <Button variant="contained" color="primary">
-              This is a button
+              This is a Primary button
             </Button>
             <Button variant="contained" color="secondary">
-              This is another button
+              This is a Secondary button
             </Button>
             {/* <Typography variant="subtitle1">{isDarkMode ? "light" : "dark"}</Typography> */}
             {/* <Switch checked={isDarkMode} onChange={() => setIsDarkMode(!isDarkMode)} /> */}
