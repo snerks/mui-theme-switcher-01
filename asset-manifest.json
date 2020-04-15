@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mui-theme-switcher-01/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mui-theme-switcher-01/static/js/main.d44b6f4c.chunk.js",
+    "main.js.map": "/mui-theme-switcher-01/static/js/main.d44b6f4c.chunk.js.map",
+    "runtime-main.js": "/mui-theme-switcher-01/static/js/runtime-main.4d7476e2.js",
+    "runtime-main.js.map": "/mui-theme-switcher-01/static/js/runtime-main.4d7476e2.js.map",
+    "static/js/2.9d27a686.chunk.js": "/mui-theme-switcher-01/static/js/2.9d27a686.chunk.js",
+    "static/js/2.9d27a686.chunk.js.map": "/mui-theme-switcher-01/static/js/2.9d27a686.chunk.js.map",
+    "index.html": "/mui-theme-switcher-01/index.html",
+    "precache-manifest.77ef89255f7cb7127ac2c775a69769ce.js": "/mui-theme-switcher-01/precache-manifest.77ef89255f7cb7127ac2c775a69769ce.js",
+    "service-worker.js": "/mui-theme-switcher-01/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mui-theme-switcher-01/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9d27a686.chunk.js.LICENSE.txt": "/mui-theme-switcher-01/static/js/2.9d27a686.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d7476e2.js",
+    "static/js/2.9d27a686.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d44b6f4c.chunk.js"
+  ]
+}
